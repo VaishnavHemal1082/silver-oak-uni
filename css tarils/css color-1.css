@@ -1,0 +1,12 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}   
+h1{
+    background-color: dodgerblue;
+    padding-left: 200px;
+}
+p{
+    margin-top: 10px;
+    background-color: tomato;
+}
